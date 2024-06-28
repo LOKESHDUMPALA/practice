@@ -1,4 +1,4 @@
-
+///
 const Gallery = (prop) =>{
     return(
         <>
