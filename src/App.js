@@ -1,7 +1,6 @@
 import { useState } from "react";
 import axios from 'axios';
 import Gallery from './Gallery';
-/////
 const apikey = "636e1481b4f3c446d26b8eb6ebfe7127"
 function App() {
   let [search,setsearch] = useState("");
